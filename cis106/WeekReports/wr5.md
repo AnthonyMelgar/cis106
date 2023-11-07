@@ -1,6 +1,6 @@
 ---
 Name: Anthony Melgar
-Semester: Fall 23 
+Semester: Spring 23 
 Course: cis106
 ---
 
